@@ -10,3 +10,20 @@
 ### O projeto está ambiente de testes configurado acessando o banco de dados H2 e Marvem como gerenciador de dependência, e Java 11 como linguagem.
 
 # Diagrama conceitual
+![diagrama](https://github.com/EdmarMagalhaes/trabalhocap1-bootcamp-devsuperior/blob/master/assets/Diagrama.png)
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/EdmarMagalhaes/trabalhocap1-bootcamp-devsuperior
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+usar o STS para rodar o projeto e os teste poderam ser feitos via POSTMAN.
+```
