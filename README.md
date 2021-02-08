@@ -19,7 +19,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/EdmarMagalhaes/trabalhocap1-bootcamp-devsuperior
+git clone https://github.com/EdmarMagalhaes/trabalhocap1-bootcamp-devsuperior.git
 
 # entrar na pasta do projeto back end
 cd backend
